@@ -8,7 +8,7 @@ var box1, slingShot;
 var backgroundImg, platform;
 
 function preload() {
-  
+  backgroundImg = loadImage("p5.play-boilerplate-master/bg.jpg")
 }
 
 function setup() {
